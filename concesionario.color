@@ -1,7 +1,11 @@
 package concesionarioFuncionalidad;
 
+
+//COMENTARIO PARA EL EJERCICIO 3
+
+
 /**
- * Representa los colores. Según el enunciado del examen:
+ * Represdsadsadsasaenta los colores. Según el enunciado del examen:
  * 
  * <pre>
  * Se limitarán los colores a tres: plata, rojo y azul. Para solicitar el color
